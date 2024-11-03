@@ -1,0 +1,9 @@
+/target
+/coverage
+*.txt
+*.csv
+/python_automation
+*.py
+testlib.rs
+killisaacscapys.rtm
+killschwanscapys.rtm

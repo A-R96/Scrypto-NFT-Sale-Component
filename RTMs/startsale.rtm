@@ -1,0 +1,13 @@
+CALL_METHOD
+  Address("account_tdx_2_")
+  "create_proof_of_non_fungibles"
+  Address("resource_tdx_2_")
+  Array<NonFungibleLocalId>(
+    NonFungibleLocalId("#1#")
+  )
+;
+
+CALL_METHOD
+  Address("component_tdx_2_")
+  "start_sale"
+;
